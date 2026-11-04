@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# Add once the domain is live (see docs/DOMAIN-CHECKLIST.md):
+# Sitemap: https://<domain>/sitemap.xml
